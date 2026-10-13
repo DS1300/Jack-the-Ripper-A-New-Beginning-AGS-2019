@@ -1,5 +1,6 @@
 # AGS generated builds
 Debug/
+_Debug/
 Compiled/
 
 # Audio not redistributed in public repository
